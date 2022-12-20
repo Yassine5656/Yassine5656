@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yassine5656
-- 👀 I’m interested in  la programmation et l'IA
-- 🌱 I’m currently learning  l e Python  et ses modules 
+- 👀 I’m interested in programmation and AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me ...
 
